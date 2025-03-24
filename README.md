@@ -11,11 +11,25 @@
   - LLMs
   - etc
 
-#### Homelab Hardware
+### Homelab
+#### Hardware
 - 2 nearly identical nodes
   - Ryzen 4500G 12 Core
   - 64GB DDR4 3200Mhz
   - 1x Tesla P4
+ 
+#### Software
+##### Hypervisor
+- Proxmox hypervisor
+- Truenas Scale (VM, ISO, Backups)
+
+##### K8s
+- 3 Node Kubernetes cluster
+- Rook ceph distributed storage
+- Dual Nginx API LBs with failover IP
+
+##### Network
+- <Redacted> firewall
 
 #### VR Setup
 - Quest 3 with Vive DAS
