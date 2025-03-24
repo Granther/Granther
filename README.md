@@ -29,7 +29,7 @@
 - Dual Nginx API LBs with failover IP
 
 ##### Network
-- <Redacted> firewall
+- REDACTED firewall
 
 #### VR Setup
 - Quest 3 with Vive DAS
