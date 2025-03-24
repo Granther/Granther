@@ -1,16 +1,23 @@
-## Hi there 👋
+### What I Love
+- I'm a 19 year old programmer, I love **Virtual Reality**, **Golang** & **AI**
+- I *LOVE* servers. Any kind of server will do, I love them all. I like making different things too like 
+  - Programming languages
+  - Websites
+  - VPN Servers
+  - etc
 
-<!--
-**Granther/Granther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Commissions
+- I take commissions. Development, Server hosting, Consulting. Just contact me at: granther321@gmail.com
 
-Here are some ideas to get you started:
+#### VR Setup
+- Quest 3 with Vive DAS
+- 2 Index controllers on my feet
+- 1 Vive tracker on my waist
+- DIY Babble Wireless mouth tracker
+- Bhaptics x40
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Homelab Hardware
+- 2 nearly identical nodes
+  - Ryzen 4500G 12 Core
+  - 64GB DDR4 3200Mhz
+  - 1x Tesla P4
