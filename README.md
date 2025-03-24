@@ -3,7 +3,7 @@
 - I *LOVE* servers. Any kind of server will do, I love them all. I like making different things too like 
   - Programming languages
   - Websites
-  - VPN Servers
+  - LLMs
   - etc
 
 #### Commissions
