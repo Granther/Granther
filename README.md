@@ -39,4 +39,4 @@
 - Bhaptics x40
 
 ### Commissions
-I take commissions. Development, Server hosting, Consulting. Just contact me at: granther321@gmail.com
+I take commissions. Development, Server hosting, Consulting, Troubleshooting. Just contact me at: granther321@gmail.com
